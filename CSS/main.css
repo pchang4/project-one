@@ -1,0 +1,12 @@
+section.page {
+    display: block;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+p {
+    font-size: 12px; 
+    width: 600px;
+}
+
