@@ -8,9 +8,13 @@ body {
     Padding-top: 35px;
 }
 
+header {
+    border-bottom: solid black 5px;
+    margin-bottom: 15px;
+}
+
 img {
     position: relative;
-   
     margin: 0 30px;
     margin-bottom: 20px;
     float: left;
