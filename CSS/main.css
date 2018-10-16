@@ -1,6 +1,3 @@
-h1, h2, h3, h4 {
-    font-family: 'K2D', sans-serif;
-}
 
 body {
     background-color: blanchedalmond;
@@ -11,24 +8,6 @@ body {
     Padding-top: 35px;
 }
 
-article {
-    padding-left: 30%;
-    max-width: 500px;
-    float: center;
-    padding-right: 50px;
-}
-p {
-    font-size: 12px; 
-    font-family: 'PT Serif', serif;  
-}
-
-h1 {
-    font-size: 20pt;
-    text-align: center;
-}
-h2 {
-    font-size: 14pt;
-}
 img {
     position: relative;
    
@@ -40,11 +19,41 @@ img {
     min-width: 300px;
 }
 
-strong {
-    font-weight: bold;
+article {
+    padding-left: 30%;
+    max-width: 500px;
+    float: center;
+    padding-right: 50px;
+}
+
+h1, h2, h3, h4, li{
+    font-family: 'K2D', sans-serif;
+}
+
+h1 {
+    font-size: 20pt;
+    text-align: center;
+}
+
+h2 {
+    font-size: 14pt;
+}
+
+p {
+    font-size: 12px; 
+    font-family: 'PT Serif', serif;  
 }
 
 li {
     font-size: 12pt;
-    font-family: 'K2D', sans-serif; 
 }
+
+strong {
+    font-weight: bold;
+}
+
+
+
+
+
+
